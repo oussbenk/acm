@@ -28,5 +28,5 @@ Ce dépôt GitHub présente le projet module algorithmique (PM). Il s'agit d'un 
 ## Comment suivre ce tutoriel ?
 Vous trouvez les exemples accompagnés de leurs descriptions dans chaque répertoire. Les répertoires sont ordonnés en ordre alphabétique en commençant par un exemple "*Hello World*".
 
-## Comment améliorer à ce tutoriel ?
+## Comment contribuer à l'amélioration de ce tutoriel ?
 N'hésiter pas à partager vos remarques et commentaires sur la page [Issues](https://github.com/oussbenk/acm/issues).
