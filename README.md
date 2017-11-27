@@ -30,3 +30,6 @@ Vous trouvez les exemples accompagnés de leurs descriptions dans chaque répert
 
 ## Comment contribuer à l'amélioration de ce tutoriel ?
 N'hésiter pas à partager vos remarques et commentaires sur la page [Issues](https://github.com/oussbenk/acm/issues).
+
+## Wiki
+D'autres informations utiles peuvent être consutées sur la page [Wiki dans ce lien](https://github.com/oussbenk/acm/wiki).
