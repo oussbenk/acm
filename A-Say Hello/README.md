@@ -32,7 +32,8 @@ int main(){
 	fscanf(fp,"%s",nom);
   
 	// TODO add your code here ...
-  
+  	
+	fclose(fp); // recomanded to close the file pointer at the end
 	return 0;
 }
 ```
